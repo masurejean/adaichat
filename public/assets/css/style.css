@@ -1,0 +1,12 @@
+header{
+    text-align: center;
+}
+
+#form{
+    display: flex;
+}
+#clients{
+    min-width: 25%;
+    text-align: center;
+    background-color: rgb(148, 227, 227);
+}
