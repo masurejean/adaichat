@@ -1,6 +1,10 @@
 header{
     text-align: center;
 }
+*{
+    margin: 0;
+    padding: 0;
+}
 
 #form{
     display: flex;
@@ -9,4 +13,55 @@ header{
     min-width: 25%;
     text-align: center;
     background-color: rgb(148, 227, 227);
+}
+#messagesFrame{
+    padding: 2rem;
+}
+.hide{
+    display: none;
+}
+.show{
+    display: flex;
+
+}
+#private {
+    position:fixed;
+    z-index: 10;
+}
+#private:hover{
+    cursor:pointer;
+    text-decoration: underline;
+}
+#responsePrivate, #private{
+    position:fixed;
+    background-color: rgba(0,0,0,.7);
+    width: 100vw;
+    height:100vh;
+    z-index: 11;
+    
+    justify-content: center;
+    align-items: center;
+}
+#responsePrivateInner , #privateInner{
+    position:relative;
+    width: 80vw;
+    height: 80vh;
+    background-color: aliceblue;
+}
+.close{
+    position:absolute;
+    top:-1rem;
+    right:-1rem;
+    color: darkslategray;
+    font-weight: 900;
+    font-size: 1.5rem;
+    z-index: 12;
+}
+#closePrivate{
+    top:3rem;
+    right:3rem;
+}
+.close:hover{
+    cursor: pointer;
+    color: black;
 }
