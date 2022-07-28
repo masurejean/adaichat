@@ -24,7 +24,7 @@ socket io
 
 ###
 
- [![linkedin logo](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](Jeanphilippe Masure)[![microsoft-outlook logo](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg)](jean-philippe.masure@hotmail.com)
+ [![linkedin logo](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](linkedin.com/in/jeanphilippe-masure-578ab192)[![microsoft-outlook logo](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg)](jean-philippe.masure@hotmail.com)
 
 ###
 
