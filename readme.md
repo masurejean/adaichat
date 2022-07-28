@@ -33,6 +33,6 @@ socket io
 
 ###
 
-![Layout with last medium posts](https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=jean philippe Masure&theme=dark)
+![Layout with last medium posts](https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=masurejean&theme=dark)
 
 ###
