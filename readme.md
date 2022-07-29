@@ -1,34 +1,24 @@
-Exercice d utilisation de Node.js avec  
-socket io
---------------------------------------------------
+Exercice ADAI CHAT
+==================
 
-###
+### A passionate frontend developer from France
 
-![stats graph](https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=masurejean) ![languages graph](https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=masurejean)
+![masurejean](https://komarev.com/ghpvc/?username=masurejean&label=Profile%20views&color=0e75b6&style=flat)
 
+[![masurejean](https://github-profile-trophy.vercel.app/?username=masurejean)](https://github.com/ryo-ma/github-profile-trophy)
 
+\- 🌱 I’m currently learning \*\*js , node.js , react\*\*
 
-![javascript logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) 
-![html5 logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) 
-![css3 logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)
+### Connect with me:
 
-###
+[![linkedin.com/in/jeanphilippe-masure-578ab192](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/linkedin.com/in/jeanphilippe-masure-578ab192)
 
-![discord logo](https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge) 
-[![linkedin logo](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](Jeanphilippe Masure)
+### Languages and Tools:
 
-###  
- ###
+ [![android](https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg)](https://developer.android.com)[![arduino](https://cdn.worldvectorlogo.com/logos/arduino-1.svg) ](https://www.arduino.cc/)[![blender](https://download.blender.org/branding/community/blender_community_badge_white.svg) ](https://www.blender.org/)[![bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg) ](https://getbootstrap.com)[![cplusplus](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg) ](https://www.w3schools.com/cpp/)[![css3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg) ](https://www.w3schools.com/css/)[![express](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg) ](https://expressjs.com)[![figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg) ](https://www.figma.com/)[![git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg) ](https://git-scm.com/)[![html5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg) ](https://www.w3.org/html/)[![javascript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) ](https://developer.mozilla.org/en-US/docs/Web/JavaScript)[![mysql](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg) ](https://www.mysql.com/)[![nodejs](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg) ](https://nodejs.org)[![opencv](https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg) ](https://opencv.org/)[![php](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg) ](https://www.php.net)[![postgresql](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg) ](https://www.postgresql.org)[![python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) ](https://www.python.org)[![qt](https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg) ](https://www.qt.io/)[![react](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg) ](https://reactjs.org/)[![reactnative](https://reactnative.dev/img/header_logo.svg) ](https://reactnative.dev/)[![sqlite](https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg)](https://www.sqlite.org/)
 
-![](https://profile-counter.glitch.me/masure/count.svg?)
+![masurejean](https://github-readme-stats.vercel.app/api/top-langs?username=masurejean&show_icons=true&locale=en&layout=compact)
 
-###
+ ![masurejean](https://github-readme-stats.vercel.app/api?username=masurejean&show_icons=true&locale=en)
 
- [![linkedin logo](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](linkedin.com/in/jeanphilippe-masure-578ab192)[![microsoft-outlook logo](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg)](jean-philippe.masure@hotmail.com)
-
-###
-
-![stats graph](https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=masurejean) 
-![languages graph](https://github-readme-stats.vercel.app/api/top-langs?locale=fr&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=masurejean)
-
-
+![masurejean](https://github-readme-streak-stats.herokuapp.com/?user=masurejean&)
